@@ -11,7 +11,7 @@ error_reporting(E_ERROR);
  */
 if (isset($_POST['submit'])) {
     $city = $_POST['name'];
-    $key = '57382d0e5b2359ea93abbbdbc1d40cd2';
+    $key = 'Put your Api Key over here';
     $url = 'api.openweathermap.org/data/2.5/weather/?q='.$city.'&appid='.$key.'';
    
     $ch = curl_init();
