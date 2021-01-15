@@ -95,4 +95,3 @@ if (isset($_POST['submit'])) {
 </script>
 </body>
 </html>
-hello TEsting purpose
