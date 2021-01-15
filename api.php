@@ -95,5 +95,3 @@ if (isset($_POST['submit'])) {
 </script>
 </body>
 </html>
-hello hello
-hello hello
